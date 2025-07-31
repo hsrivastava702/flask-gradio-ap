@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 flask==2.3.3
 requests==2.31.0
 werkzeug==2.3.7
+=======
+flask==2.3.3
+requests==2.31.0
+werkzeug==2.3.7
+>>>>>>> 59f80d85f6334e8a84950ae34489f3bfa9648d1d
